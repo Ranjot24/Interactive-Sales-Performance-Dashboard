@@ -21,6 +21,10 @@ Customer Name: Name of the customer.
 Region: Geographical region where the sale was made.
 Sales Amount: Monetary value of the sale.
 Quantity Sold: Number of units sold.
+
+Cleaning and Transformation:
+The dataset has been cleaned and transformed using Power Query
+
 Key Analysis Areas:
 Sales Overview:
 
